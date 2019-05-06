@@ -8,7 +8,7 @@ The Algorithm class sets up a binary based crossover method for a tournament and
 
 The GA class is the implementation class in which the program is run 
 
-  ![alt text](samplerun.png)
+  ![alt text](AlgorithmPracticeII.samplerun.png)
 
 
 
